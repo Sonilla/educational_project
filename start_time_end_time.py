@@ -4,7 +4,7 @@
 Дополните приведенный ниже код, чтобы он вывел общее целое количество минут, которое программист затратил на решение
 всех задач. """
 
-from datetime import date, time, datetime, timedelta
+from datetime import datetime, timedelta
 
 
 data = [('07:14', '08:46'),
